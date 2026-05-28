@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Inter:wght@400;500;600&display=swap");
+
 :root {
   --bg: #FBF8F1;
   --bg-soft: #F6F1E8;
@@ -1049,4 +1051,60 @@ body {
   .hero-copy {
     margin-left: 0;
   }
+}
+
+/* V18 requested updates */
+.hero {
+  background: #102341;
+}
+.hero::before {
+  background: none;
+}
+#contact {
+  background: #102341;
+}
+.image-open-button {
+  display: block;
+  width: 100%;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  cursor: zoom-in;
+  text-align: left;
+}
+.image-lightbox-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 90;
+  background: rgba(16, 35, 65, 0.86);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 28px;
+}
+.image-lightbox-panel {
+  position: relative;
+  width: min(1180px, 100%);
+  max-height: calc(100vh - 56px);
+  background: var(--bg);
+  padding: 24px;
+  overflow: auto;
+}
+.image-lightbox-panel img {
+  max-height: 82vh;
+  object-fit: contain;
+}
+.image-lightbox-caption {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+  margin-top: 14px;
+  color: rgba(31,31,29,0.68);
+  font-size: 0.82rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.archive-item {
+  cursor: zoom-in;
 }

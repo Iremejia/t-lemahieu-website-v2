@@ -10,7 +10,7 @@ const WORKS = [
     "medium": "Acrylic on canvas",
     "format": "Statement",
     "dimensions": "86x196",
-    "price": "",
+    "price": "$4.300,00",
     "status": "Available",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556163/PA-124-main_izuppy.png",
     "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556678/PA-124-context_fdapwh.png"
@@ -22,7 +22,7 @@ const WORKS = [
     "medium": "Acrylic on canvas",
     "format": "Signature",
     "dimensions": "70x80",
-    "price": "",
+    "price": "$2.000,00",
     "status": "Available",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556153/RIT-056-main_cd54pc.png",
     "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556658/RIT-056-context_pbgjgh.png"
@@ -34,7 +34,7 @@ const WORKS = [
     "medium": "Acrylic on canvas",
     "format": "Statement",
     "dimensions": "80x200",
-    "price": "",
+    "price": "$4.500,00",
     "status": "Available",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556177/CAR-087-main_vlq6ch.png",
     "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556637/CAR-087-context_ooy5i3.png"
@@ -46,7 +46,7 @@ const WORKS = [
     "medium": "Acrylic on canvas",
     "format": "Monumental",
     "dimensions": "100x240",
-    "price": "",
+    "price": "$6.500,00",
     "status": "Available",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556168/PA-139-main_modmla.png",
     "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556677/PA-139-context_q0qsap.png"
@@ -58,10 +58,10 @@ const WORKS = [
     "medium": "Acrylic on canvas",
     "format": "Monumental",
     "dimensions": "100x240",
-    "price": "",
+    "price": "$7.000,00",
     "status": "Commission reference",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556173/CAR-092-main_u2tg3p.png",
-    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1780005864/CAR-092-context2_hytsok.png"
+    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556635/CAR-092-context_muiyym.png"
   },
   {
     "code": "RIT-061",
@@ -70,7 +70,7 @@ const WORKS = [
     "medium": "Acrylic on canvas",
     "format": "Statement",
     "dimensions": "156x136",
-    "price": "",
+    "price": "$5.200,00",
     "status": "Available",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556168/RIT-061-main_zm2wll.png",
     "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556657/RIT-061-context_rz9u30.png"
@@ -82,10 +82,10 @@ const WORKS = [
     "medium": "Acrylic on canvas",
     "format": "Statement",
     "dimensions": "160x80",
-    "price": "",
+    "price": "$3.700,00",
     "status": "Available",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556171/PA-147-main_gophby.png",
-    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1780004292/PA-147-context2_jsqf4e.png"
+    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556667/PA-147-context_gktxhu.png"
   },
   {
     "code": "CAR-104",
@@ -94,10 +94,10 @@ const WORKS = [
     "medium": "Acrylic on canvas",
     "format": "Monumental",
     "dimensions": "140x225",
-    "price": "",
+    "price": "$8.500,00",
     "status": "Available",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556183/CAR-104-main_ymqedf.png",
-    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1780004285/CAR-104-context2_eizj2o.png"
+    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556635/CAR-104-context_hc9q4u.png"
   },
   {
     "code": "RIT-073",
@@ -106,10 +106,10 @@ const WORKS = [
     "medium": "Acrylic on canvas",
     "format": "Signature",
     "dimensions": "77x100",
-    "price": "",
+    "price": "$2.400,00",
     "status": "Available",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556154/RIT-073-main_tg3ggw.png",
-    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1780004296/RIT-073-context2_btpysq.png"
+    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556656/RIT-073-context_bv5f4k.png"
   },
   {
     "code": "RIT-079",
@@ -118,10 +118,10 @@ const WORKS = [
     "medium": "Acrylic on canvas",
     "format": "Monumental",
     "dimensions": "140x190",
-    "price": "",
+    "price": "$7.000,00",
     "status": "Available",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556154/RIT-079-main_grufie.png",
-    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1780004297/RIT-079-context2_c9gy9t.png"
+    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556654/RIT-079-context_puby6q.png"
   },
   {
     "code": "OBJ-060",
@@ -130,7 +130,7 @@ const WORKS = [
     "medium": "Acrylic on canvas",
     "format": "Painted Objects",
     "dimensions": "",
-    "price": "",
+    "price": "$3.200,00",
     "status": "Available",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556133/OBJ-060-main_yr6tp9.png",
     "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556612/OBJ-060-context_qtgngk.png"
@@ -142,7 +142,7 @@ const WORKS = [
     "medium": "Mixed media on paper",
     "format": "Intimate",
     "dimensions": "32x24",
-    "price": "",
+    "price": "$900,00",
     "status": "Commission reference",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556132/RIT-084-main_dln7gl.png",
     "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556611/RIT-084-context_glxtsw.png"
@@ -154,7 +154,7 @@ const WORKS = [
     "medium": "Acrylic on canvas",
     "format": "Monumental",
     "dimensions": "",
-    "price": "",
+    "price": "$7.500,00",
     "status": "Commission reference",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556178/CAR-118-main_rkb90x.png",
     "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556635/CAR-118-context_yeno2x.png"
@@ -166,7 +166,7 @@ const WORKS = [
     "medium": "Acrylic on canvas",
     "format": "Monumental",
     "dimensions": "",
-    "price": "",
+    "price": "$7.000,00",
     "status": "Commission reference",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556170/PA-152-main_puoz3j.png",
     "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556666/PA-152-context_yupir9.png"
@@ -175,10 +175,10 @@ const WORKS = [
     "code": "PA-166",
     "collection": "Pure Abstraction",
     "title": "",
-    "medium": "Acrylic on canvas",
+    "medium": "Acrylic on wood",
     "format": "Intimate",
     "dimensions": "31x21",
-    "price": "",
+    "price": "$3.200,00",
     "status": "Commission reference",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556161/PA-166-main_yswl4r.png",
     "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556612/PA-166-context_ic571d.png"
@@ -190,7 +190,7 @@ const WORKS = [
     "medium": "Acrylic on canvas",
     "format": "Intimate",
     "dimensions": "28x28",
-    "price": "",
+    "price": "$600,00",
     "status": "Commission reference",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556157/PA-171-main_kkhyxu.png",
     "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556613/PA-171-context_puka9b.png"
@@ -199,13 +199,13 @@ const WORKS = [
     "code": "PA-184",
     "collection": "Pure Abstraction",
     "title": "",
-    "medium": "Acrylic on canvas",
-    "format": "Intimate",
-    "dimensions": "32x24",
-    "price": "",
+    "medium": "Mixed media on paper",
+    "format": "Signature",
+    "dimensions": "100x50",
+    "price": "$700,00",
     "status": "Commission reference",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556142/PA-184-main_laypej.png",
-    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1780004293/PA-184-context2_wwode4.png"
+    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779559167/PA-184-context_cxqlgj.png"
   },
   {
     "code": "RIT-091",
@@ -226,7 +226,7 @@ const WORKS = [
     "medium": "Acrylic on canvas",
     "format": "Signature",
     "dimensions": "60x40",
-    "price": "",
+    "price": "$1.400,00",
     "status": "Commission reference",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556182/CAR-126-main_k0ihd6.png",
     "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556633/CAR-126-context_sfhwim.png"
@@ -238,7 +238,7 @@ const WORKS = [
     "medium": "Acrylic on canvas",
     "format": "Signature",
     "dimensions": "",
-    "price": "",
+    "price": "$2.200,00",
     "status": "Available",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556128/PA-193-main_anyjbj.png",
     "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556662/PA-193-context_uijwfy.png"
@@ -253,7 +253,7 @@ const WORKS = [
     "price": "",
     "status": "Commission reference",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556179/CAR-132-main_nt1rif.png",
-    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1780004285/CAR-132-context2_cq5tqc.png"
+    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556630/CAR-132-context_gppqda.png"
   },
   {
     "code": "PA-201",
@@ -262,7 +262,7 @@ const WORKS = [
     "medium": "Acrylic on canvas",
     "format": "Statement",
     "dimensions": "",
-    "price": "",
+    "price": "$4.200,00",
     "status": "Available",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556164/PA-201-main_zey16q.png",
     "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556664/PA-201-context_gtdlzo.png"
@@ -274,7 +274,7 @@ const WORKS = [
     "medium": "Acrylic on canvas",
     "format": "Intimate",
     "dimensions": "28x28",
-    "price": "",
+    "price": "$2.200,00",
     "status": "Commission reference",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556157/PA-214-main_r0gnh3.png",
     "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556664/PA-214-context_fx7upa.png"
@@ -286,10 +286,10 @@ const WORKS = [
     "medium": "Mixed media on paper",
     "format": "Intimate",
     "dimensions": "22x22",
-    "price": "",
+    "price": "$600,00",
     "status": "Available",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556134/RIT-103-main_ub7a6r.png",
-    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1780004297/RIT-103-context2_z4q3ez.png"
+    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556623/RIT-103-context_asvjrv.png"
   },
   {
     "code": "PA-227",
@@ -298,10 +298,10 @@ const WORKS = [
     "medium": "Mixed media on paper",
     "format": "Intimate",
     "dimensions": "32x24",
-    "price": "",
+    "price": "$700,00",
     "status": "Available",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779559150/PA-227-main_irpvsq.png",
-    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1780004294/PA-227-context2_n64xbi.png"
+    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556663/PA-227-context_oc0jai.png"
   },
   {
     "code": "RIT-118",
@@ -310,10 +310,22 @@ const WORKS = [
     "medium": "Mixed media on paper",
     "format": "Intimate",
     "dimensions": "32x24",
-    "price": "",
+    "price": "$350,00",
     "status": "Available",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556155/RIT-118-main_ijkdz6.png",
     "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556621/RIT-118-context_trledp.png"
+  },
+  {
+    "code": "RIT-124",
+    "collection": "Rituals",
+    "title": "",
+    "medium": "Mixed media on paper",
+    "format": "Intimate",
+    "dimensions": "32x24",
+    "price": "$1.200,00",
+    "status": "Available",
+    "main": "",
+    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556618/RIT-124-context_mepkyo.png"
   },
   {
     "code": "RIT-138",
@@ -322,10 +334,10 @@ const WORKS = [
     "medium": "Mixed media on paper",
     "format": "Intimate",
     "dimensions": "32x24",
-    "price": "",
+    "price": "$700,00",
     "status": "Available",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556137/RIT-138-main_hxkzqe.png",
-    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1780004296/RIT-138-context2_ettfj0.png"
+    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556621/RIT-138-context_y03kh9.png"
   },
   {
     "code": "CAR-141",
@@ -334,7 +346,7 @@ const WORKS = [
     "medium": "Mixed media on paper",
     "format": "Intimate",
     "dimensions": "32x24",
-    "price": "",
+    "price": "$700,00",
     "status": "Available",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556484/CAR-141-main_tefob8.png",
     "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556652/CAR-141-context_arvp3u.png"
@@ -346,7 +358,7 @@ const WORKS = [
     "medium": "Mixed media on paper",
     "format": "Intimate",
     "dimensions": "32x24",
-    "price": "",
+    "price": "$700,00",
     "status": "Available",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556477/CAR-154-main_vm1viu.png",
     "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556647/CAR-154-context_ywci3x.png"
@@ -358,7 +370,7 @@ const WORKS = [
     "medium": "Mixed media on paper",
     "format": "Intimate",
     "dimensions": "32x24",
-    "price": "",
+    "price": "$900,00",
     "status": "Available",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556476/CAR-169-main_uvlcge.png",
     "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556646/CAR-169-context_n7emmy.png"
@@ -370,10 +382,10 @@ const WORKS = [
     "medium": "Mixed media on paper",
     "format": "Intimate",
     "dimensions": "32x24",
-    "price": "",
+    "price": "$900,00",
     "status": "Available",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556131/RIT-146-main_vmgllx.png",
-    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1780004297/RIT-146-context2_di731n.png"
+    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556611/RIT-146-context_tnzmlw.png"
   },
   {
     "code": "CF-041",
@@ -382,10 +394,22 @@ const WORKS = [
     "medium": "Collage",
     "format": "Intimate",
     "dimensions": "20x20",
-    "price": "",
+    "price": "$450,00",
     "status": "Available",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556481/CF-041-main_vjxkon.png",
     "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556645/CF-041-context_lkh0cs.png"
+  },
+  {
+    "code": "CF-COMP2",
+    "collection": "Collected Fragments",
+    "title": "",
+    "medium": "Collage",
+    "format": "Intimate",
+    "dimensions": "20x20",
+    "price": "$650,00",
+    "status": "Available",
+    "main": "",
+    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779557728/CF-COMP2_ztotz1.png"
   },
   {
     "code": "CF-064",
@@ -394,7 +418,7 @@ const WORKS = [
     "medium": "Collage",
     "format": "Intimate",
     "dimensions": "20x20",
-    "price": "",
+    "price": "$250,00",
     "status": "Available",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556148/CF-064-main_fyl7e6.png",
     "context": ""
@@ -406,10 +430,10 @@ const WORKS = [
     "medium": "Collage",
     "format": "Intimate",
     "dimensions": "20x20",
-    "price": "",
+    "price": "$250,00",
     "status": "Available",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556151/CF-078-main_fj3qjn.png",
-    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1780004286/CF-COMP3_yzqyc2.png"
+    "context": ""
   },
   {
     "code": "CF-083",
@@ -418,10 +442,10 @@ const WORKS = [
     "medium": "Collage",
     "format": "Intimate",
     "dimensions": "20x20",
-    "price": "",
+    "price": "$250,00",
     "status": "Available",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556145/CF-083-main_tdoo83.png",
-    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1780004286/CF-COMP3_yzqyc2.png"
+    "context": ""
   },
   {
     "code": "CF-097",
@@ -430,10 +454,10 @@ const WORKS = [
     "medium": "Collage",
     "format": "Intimate",
     "dimensions": "20x20",
-    "price": "",
+    "price": "$250,00",
     "status": "Available",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556145/CF-097-main_vtwcux.png",
-    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1780004286/CF-COMP3_yzqyc2.png"
+    "context": ""
   },
   {
     "code": "CF-105",
@@ -442,7 +466,7 @@ const WORKS = [
     "medium": "Collage",
     "format": "Intimate",
     "dimensions": "20x20",
-    "price": "",
+    "price": "$250,00",
     "status": "Available",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556143/CF-105-main_nhotaz.png",
     "context": ""
@@ -454,10 +478,10 @@ const WORKS = [
     "medium": "Collage",
     "format": "Intimate",
     "dimensions": "20x20",
-    "price": "",
+    "price": "$250,00",
     "status": "Available",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556140/CF-116-main_x1wtdo.png",
-    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1780004286/CF-COMP3_yzqyc2.png"
+    "context": ""
   },
   {
     "code": "CF-196",
@@ -466,7 +490,7 @@ const WORKS = [
     "medium": "Collage",
     "format": "Intimate",
     "dimensions": "22x16",
-    "price": "",
+    "price": "$450,00",
     "status": "Available",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556139/CF-196-main_lus5am.png",
     "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556638/CF-196-context_pwtp9g.png"
@@ -478,10 +502,22 @@ const WORKS = [
     "medium": "Collage",
     "format": "Intimate",
     "dimensions": "10x10",
-    "price": "",
+    "price": "$250,00",
     "status": "Commission reference",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556161/CF-152-main_iwmobc.png",
     "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556648/CF-152-context_ryme3p.png"
+  },
+  {
+    "code": "CF-COMP1",
+    "collection": "Collected Fragments",
+    "title": "",
+    "medium": "Collage",
+    "format": "Intimate",
+    "dimensions": "20x20",
+    "price": "$1.200,00",
+    "status": "Available",
+    "main": "",
+    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779557730/CF-COMP1_aynl5j.png"
   },
   {
     "code": "OBJ-048",
@@ -502,7 +538,7 @@ const WORKS = [
     "medium": "Mixed media on paper",
     "format": "Intimate",
     "dimensions": "32x24",
-    "price": "",
+    "price": "$700,00",
     "status": "Available",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556132/RIT-117-main_pdt1kd.png",
     "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556622/RIT-117-context_cmtkm1.png"
@@ -514,10 +550,10 @@ const WORKS = [
     "medium": "Collage",
     "format": "Intimate",
     "dimensions": "20x20",
-    "price": "",
+    "price": "$450,00",
     "status": "Available",
     "main": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556165/CF-167-main_xl2ktf.png",
-    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1780004285/CF-167-context2_zsmjqo.png"
+    "context": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556645/CF-167-context_yu1wwe.png"
   },
   {
     "code": "CAR-134",
@@ -571,7 +607,7 @@ const ARCHIVE = [
     "name": "Ski figure study",
     "group": "Early Studies",
     "url": "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779654269/ARCH-ES-002_xekfdt.png",
-    "year": "1979",
+    "year": "1999",
     "caption": "Archival study combining figure, movement and graphic composition."
   },
   {
@@ -677,28 +713,33 @@ const ARCHIVE_STUDIO = ["ARCH-EA-004", "ARCH-EA-001", "ARCH-EA-002"];
 const BIOGRAPHY_CODES = ["ARCH-EA-006", "ARCH-ES-003", "ARCH-EA-005", "ARCH-EA-009"];
 const COLLECTION_SELECTIONS = {
   "cardumenes": [
-    "CAR-092",
-    "CAR-118",
-    "CAR-126",
-    "CAR-169"
+    { src: "https://res.cloudinary.com/djwaxgpxj/image/upload/v1780005864/CAR-092-context2_hytsok.png", alt: "CAR-092" },
+    { src: "https://res.cloudinary.com/djwaxgpxj/image/upload/v1780004285/CAR-104-context2_eizj2o.png", alt: "CAR-104" },
+    { src: "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556635/CAR-118-context_yeno2x.png", alt: "CAR-118" },
+    { src: "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556133/OBJ-060-main_yr6tp9.png", alt: "OBJ-060" },
+    { src: "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556182/CAR-126-main_k0ihd6.png", alt: "CAR-126" }
   ],
   "rituals": [
-    "RIT-056",
-    "RIT-061",
-    "RIT-073",
-    "RIT-117"
+    { src: "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556168/RIT-061-main_zm2wll.png", alt: "RIT-061" },
+    { src: "https://res.cloudinary.com/djwaxgpxj/image/upload/v1780004297/RIT-079-context2_c9gy9t.png", alt: "RIT-079" },
+    { src: "https://res.cloudinary.com/djwaxgpxj/image/upload/v1780004297/RIT-103-context2_z4q3ez.png", alt: "RIT-103" },
+    { src: "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556153/RIT-056-main_cd54pc.png", alt: "RIT-056" },
+    { src: "https://res.cloudinary.com/djwaxgpxj/image/upload/v1780004296/RIT-073-context2_btpysq.png", alt: "RIT-073" },
+    { src: "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556622/RIT-117-context_cmtkm1.png", alt: "RIT-117" }
   ],
   "pure-abstraction": [
-    "PA-124",
-    "PA-147",
-    "PA-166",
-    "PA-201"
+    { src: "https://res.cloudinary.com/djwaxgpxj/image/upload/v1780004292/PA-147-context2_jsqf4e.png", alt: "PA-147" },
+    { src: "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556678/PA-124-context_fdapwh.png", alt: "PA-124" },
+    { src: "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556678/PA-112-context_uy7xy4.png", alt: "PA-112" },
+    { src: "https://res.cloudinary.com/djwaxgpxj/image/upload/v1780004292/PA-147-context2_jsqf4e.png", alt: "PA-147" },
+    { src: "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556664/PA-201-context_gtdlzo.png", alt: "PA-201" }
   ],
   "collected-fragments": [
-    "CF-041",
-    "CF-COMP2",
-    "CF-167",
-    "CF-196"
+    { src: "https://res.cloudinary.com/djwaxgpxj/image/upload/v1780004286/CF-COMP3_yzqyc2.png", alt: "CF-COMP3" },
+    { src: "https://res.cloudinary.com/djwaxgpxj/image/upload/v1780004285/CF-167-context2_zsmjqo.png", alt: "CF-167" },
+    { src: "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556638/CF-196-context_pwtp9g.png", alt: "CF-196" },
+    { src: "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556161/CF-152-main_iwmobc.png", alt: "CF-152" },
+    { src: "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556140/CF-116-main_x1wtdo.png", alt: "CF-116" }
   ]
 };
 const FORMAT_SELECTIONS = {
@@ -712,6 +753,7 @@ const FORMAT_SELECTIONS = {
     "RIT-056",
     "RIT-073",
     "CAR-126",
+    "PA-184",
     "PA-193"
   ],
   "Statement": [
@@ -733,11 +775,11 @@ const FORMAT_SELECTIONS = {
 };
 
 const HERO_IMAGES = [
-  'https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556664/PA-201-context_gtdlzo.png',
-  'https://res.cloudinary.com/djwaxgpxj/image/upload/v1780004297/RIT-079-context2_c9gy9t.png',
-  'https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556678/PA-124-context_fdapwh.png',
-  'https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556664/PA-201-context_gtdlzo.png',
-  'https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556178/CAR-118-main_rkb90x.png',
+  { src: "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556664/PA-201-context_gtdlzo.png", alt: "PA-201" },
+  { src: "https://res.cloudinary.com/djwaxgpxj/image/upload/v1780004297/RIT-079-context2_c9gy9t.png", alt: "RIT-079" },
+  { src: "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556678/PA-124-context_fdapwh.png", alt: "PA-124" },
+  { src: "https://res.cloudinary.com/djwaxgpxj/image/upload/v1779556178/CAR-118-main_rkb90x.png", alt: "CAR-118" },
+  { src: "https://res.cloudinary.com/djwaxgpxj/image/upload/v1780005864/CAR-092-context2_hytsok.png", alt: "CAR-092" }
 ];
 
 const T = {
@@ -761,9 +803,9 @@ const T = {
       'All works are unique and original pieces, painted by the artist.',
     bioEyebrow: 'Biography',
     bioTitle: 'The artist',
-    bioLead: 'Belgium · Venezuela · United States · Germany · France · Netherlands · Russia',
+    bioLead: 'Brugge (Belgium) · Paris (France) · Venezuela · United States · Germany · Netherlands · Russia',
     bio1:
-      'Born in Veurne, Belgium, Truusje Lemahieu studied applied arts, painting and drawing in Brugge (Belgium) and Paris (France) before building a long artistic life between Europe and Venezuela. Her work carries the discipline of European formation and the chromatic intensity of the tropics, where color became not a discovery, but a natural language that finally made sense.',
+      'Born in Veurne, Belgium, Truusje Lemahieu studied applied arts, painting and drawing across Belgium and France before building a long artistic life between Europe and Venezuela. Her work carries the discipline of European formation and the chromatic intensity of the tropics, where color became not a discovery, but a natural language that finally made sense.',
     bio2:
       'Across four decades, her practice has moved through abstraction, object, gesture, domestic form and large-scale composition. Bowls, fish, signs, fragments and fields of color appear as recurring territories: never decorative motifs, but vessels for rhythm, memory and movement.',
     bio3:
@@ -771,7 +813,7 @@ const T = {
     collectionsEyebrow: 'Browse by collection',
     collectionsTitle: 'Collections',
     collectionsText:
-      'The work of T. Lemahieu is born from a deep relationship with color, light, depth, and balance. Her compositions emerge from a persistent search for three-dimensional presence, achieved through superimposed two-dimensional brushstrokes carefully placed in relation to one another. Nothing is left to chance. Each gesture holds its place within a search for equilibrium, both vertical and horizontal. Color is never static in her work: it shifts, vibrates, and transforms according to the colors around it. Each collection opens a territory of its own, where the eye enters, moves through, and lingers.',
+      'The work of T. Lemahieu is born from a deep relationship with color, light, depth, and balance. Her compositions create dimension through the layering of two-dimensional brushstrokes, carefully placed in relation to one another. Nothing is left to chance. Each gesture holds its place within a search for equilibrium, both vertical and horizontal. Color is never static in her work. It shifts, vibrates, and transforms according to the colors around it. Each collection opens a territory of its own, where the eye enters, moves through, and lingers.',
     formatsEyebrow: 'Browse by format',
     formatsTitle: 'Choose by scale, space and presence',
     formatsText:
@@ -800,9 +842,11 @@ const T = {
     inContext: 'In context',
     medium: 'Technique',
     dimensions: 'Dimensions',
+    price: 'Price',
     status: 'Status',
     available: 'Available',
     commissionReference: 'Commission reference',
+    priceUponRequest: 'Price upon request',
     inquireWork: 'Inquire about this work',
     archivePress: 'Press & exhibition archive',
     archiveStudies: 'Early works & studies',
@@ -846,9 +890,9 @@ const T = {
       'Todas las obras son piezas únicas y originales, pintadas por la artista.',
     bioEyebrow: 'Biografía',
     bioTitle: 'La artista',
-    bioLead: 'Bélgica · Venezuela · Estados Unidos · Alemania · Francia · Holanda · Rusia',
+    bioLead: 'Brugge (Bélgica) · París (Francia) · Venezuela · Estados Unidos · Alemania · Holanda · Rusia',
     bio1:
-      'Nacida en Veurne, Bélgica, Truusje Lemahieu estudió artes aplicadas, pintura y dibujo en Brugge (Bélgica) y París (Francia) antes de construir una vida artística entre Europa y Venezuela. Su obra reúne la disciplina de la formación europea y la intensidad cromática del trópico, donde el color no apareció como descubrimiento, sino como un lenguaje natural que finalmente hizo sentido.',
+      'Nacida en Veurne, Bélgica, Truusje Lemahieu se formó en artes aplicadas, pintura y dibujo entre Bélgica y Francia antes de construir una vida artística entre Europa y Venezuela. Su obra reúne la disciplina de la formación europea y la intensidad cromática del trópico, donde el color no apareció como descubrimiento, sino como un lenguaje natural que finalmente hizo sentido.',
     bio2:
       'Durante más de cuatro décadas, su práctica ha transitado la abstracción, el objeto, el gesto, la forma doméstica y la composición de gran escala. Cuencos, peces, signos, fragmentos y campos de color aparecen como territorios recurrentes: no como motivos decorativos, sino como contenedores de ritmo, memoria y movimiento.',
     bio3:
@@ -856,7 +900,7 @@ const T = {
     collectionsEyebrow: 'Explorar por colección',
     collectionsTitle: 'Colecciones',
     collectionsText:
-      'La obra de T. Lemahieu nace de una relación profunda con el color, la luz, la dimensión y el equilibrio. Sus composiciones surgen de una búsqueda permanente e insistente por lograr obras con presencia tridimensional, construida a partir de pinceladas bidimensionales superpuestas y cuidadosamente ubicadas en relación unas con otras. Nada queda al azar. Cada gesto ocupa su lugar dentro de una estructura de armonía, tanto vertical como horizontal. El color nunca es estático en su obra: cambia, vibra y se transforma según los tonos que lo rodean. Cada colección abre un territorio propio, donde la mirada entra, recorre y permanece.',
+      'La obra de T. Lemahieu nace de una relación profunda con el color, la luz y el equilibrio. Sus composiciones revelan una búsqueda permanente e insistente: crear obras con sensación de tridimensionalidad a partir de pinceladas bidimensionales superpuestas, cuidadosamente ubicadas en relación unas con otras. Nada queda al azar. Cada gesto ocupa su lugar dentro de un equilibrio tanto vertical como horizontal. El color nunca es estático en su obra: cambia, vibra y se transforma según los colores que lo rodean. Cada colección abre un territorio propio, donde la mirada entra, recorre y permanece.',
     formatsEyebrow: 'Explorar por formato',
     formatsTitle: 'Elegir por escala, espacio y presencia',
     formatsText:
@@ -885,9 +929,11 @@ const T = {
     inContext: 'En contexto',
     medium: 'Técnica',
     dimensions: 'Medidas',
+    price: 'Precio',
     status: 'Estatus',
     available: 'Disponible',
     commissionReference: 'Referencia de comisión',
+    priceUponRequest: 'Precio bajo consulta',
     inquireWork: 'Consultar por esta obra',
     archivePress: 'Archivo de prensa y exposiciones',
     archiveStudies: 'Trabajos tempranos y estudios',
@@ -1005,9 +1051,8 @@ function Header({ lang, setLang, t }) {
 }
 
 function HeroRotator() {
-  const views = useMemo(() => HERO_IMAGES.map((src, index) => ({ src, alt: `T. Lemahieu artwork ${index + 1}` })), []);
-  const [index] = useRotator(views.length, 3800);
-  const current = views[index] || views[0];
+  const [index] = useRotator(HERO_IMAGES.length, 3800);
+  const current = HERO_IMAGES[index] || HERO_IMAGES[0];
   if (!current) return null;
   return (
     <div className="hero-media">
@@ -1017,25 +1062,34 @@ function HeroRotator() {
 }
 
 function EditorialImageSet({ codes }) {
-  const items = codes.map(workByCode).filter(Boolean);
+  const items = codes
+    .map((item) => {
+      if (typeof item === 'string') {
+        if (item.startsWith('http')) return { src: item, alt: 'Collection image' };
+        const work = workByCode(item);
+        return work ? { src: work.context || work.main, alt: work.code } : null;
+      }
+      return item;
+    })
+    .filter((item) => item && item.src);
   if (!items.length) return null;
   return (
     <div className="editorial-image-set">
       <figure className="primary">
-        <img src={items[0].context || items[0].main} alt={items[0].code} />
+        <img src={items[0].src} alt={items[0].alt || 'Collection image'} />
       </figure>
       <div className="secondary-stack">
-        {items.slice(1, 3).map((item) => (
-          <figure key={item.code}>
-            <img src={item.context || item.main} alt={item.code} />
+        {items.slice(1, 3).map((item, idx) => (
+          <figure key={`${item.alt || 'image'}-${idx}`}>
+            <img src={item.src} alt={item.alt || 'Collection image'} />
           </figure>
         ))}
       </div>
-      {items[3] ? (
-        <figure className="wide">
-          <img src={items[3].context || items[3].main} alt={items[3].code} />
+      {items.slice(3).map((item, idx) => (
+        <figure className="wide" key={`${item.alt || 'wide'}-${idx}`}>
+          <img src={item.src} alt={item.alt || 'Collection image'} />
         </figure>
-      ) : null}
+      ))}
     </div>
   );
 }
@@ -1088,7 +1142,7 @@ function FormatCard({ def, lang, setFormat, scrollToGallery }) {
 function ArtworkFigure({ work, t, onOpen }) {
   const views = [work.main, work.context].filter(Boolean);
   const [index, setIndex] = useState(0);
-  const current = views[index] || work.main;
+  const current = views[index] || work.main || work.context;
   return (
     <article className="artwork-figure">
       <button className="artwork-image-wrap clickable-artwork" type="button" onClick={() => onOpen(work)}>
@@ -1105,8 +1159,8 @@ function ArtworkFigure({ work, t, onOpen }) {
           {work.format ? <span className="tag">{work.format}</span> : null}
         </div>
         {work.title ? <h3>{work.title}</h3> : null}
-        {work.medium ? <p>{work.medium}</p> : null}
-        {work.dimensions ? <p>{work.dimensions}</p> : null}
+        <p>{work.medium}</p>
+        <p>{work.dimensions}</p>
         <div className="availability-row">
           <span>{translateStatus(work.status, t) || t.available}</span>
         </div>
@@ -1116,7 +1170,7 @@ function ArtworkFigure({ work, t, onOpen }) {
   );
 }
 
-function ArchiveRow({ title, codes }) {
+function ArchiveRow({ title, codes, onOpen }) {
   return (
     <div className="archive-row-block">
       <h3 className="archive-row-title">{title}</h3>
@@ -1126,9 +1180,11 @@ function ArchiveRow({ title, codes }) {
           if (!item) return null;
           return (
             <article key={code} className="archive-item">
-              <figure>
-                <img src={item.url} alt={item.name} />
-              </figure>
+              <button className="image-open-button" type="button" onClick={() => onOpen(item)}>
+                <figure>
+                  <img src={item.url} alt={item.name} />
+                </figure>
+              </button>
               <div className="archive-caption">
                 {item.year ? <span className="archive-year">{item.year}</span> : null}
                 <h4>{item.name}</h4>
@@ -1215,20 +1271,37 @@ function DetailModal({ work, onClose, t }) {
   );
 }
 
+function ImageLightbox({ image, onClose }) {
+  if (!image) return null;
+  return (
+    <div className="image-lightbox-backdrop" onClick={onClose}>
+      <div className="image-lightbox-panel" onClick={(event) => event.stopPropagation()}>
+        <button className="modal-close" onClick={onClose}>×</button>
+        <img src={image.url} alt={image.name || 'Archive image'} />
+        <div className="image-lightbox-caption">
+          <span>{image.name}</span>
+          {image.year ? <span>{image.year}</span> : null}
+        </div>
+      </div>
+    </div>
+  );
+}
+
 export default function Page() {
   const [lang, setLang] = useState('en');
   const [activeCollection, setActiveCollection] = useState('all');
   const [activeFormat, setActiveFormat] = useState('all');
   const [selectedWork, setSelectedWork] = useState(null);
+  const [selectedImage, setSelectedImage] = useState(null);
   const t = T[lang];
 
   const filteredWorks = useMemo(() => {
-    return WORKS.filter((work) => {
+    return WORKS.filter((work) => work.main).filter((work) => {
       const collectionOk = activeCollection === 'all'
         ? true
         : collectionDefs.find((item) => item.id === activeCollection)?.keys.includes(work.collection);
       const formatOk = activeFormat === 'all' ? true : work.format === activeFormat;
-      return collectionOk && formatOk && Boolean(work.main);
+      return collectionOk && formatOk;
     });
   }, [activeCollection, activeFormat]);
 
@@ -1275,8 +1348,10 @@ export default function Page() {
           <div className="biography-images">
             {biographyImages.map((item) => (
               <figure key={item.code}>
-                <img src={item.url} alt={item.name} />
-                <figcaption>{item.name}</figcaption>
+                <button className="image-open-button" type="button" onClick={() => setSelectedImage(item)}>
+                  <img src={item.url} alt={item.name} />
+                </button>
+                <figcaption>{item.code === 'ARCH-ES-003' && item.year ? `${item.name} · ${item.year}` : item.name}</figcaption>
               </figure>
             ))}
           </div>
@@ -1369,9 +1444,9 @@ export default function Page() {
           <h2>{t.archiveTitle}</h2>
           <p>{t.archiveText}</p>
         </div>
-        <ArchiveRow title={t.archivePress} codes={ARCHIVE_PRESS} />
-        <ArchiveRow title={t.archiveStudies} codes={ARCHIVE_STUDIES} />
-        <ArchiveRow title={t.archiveStudio} codes={ARCHIVE_STUDIO} />
+        <ArchiveRow title={t.archivePress} codes={ARCHIVE_PRESS} onOpen={setSelectedImage} />
+        <ArchiveRow title={t.archiveStudies} codes={ARCHIVE_STUDIES} onOpen={setSelectedImage} />
+        <ArchiveRow title={t.archiveStudio} codes={ARCHIVE_STUDIO} onOpen={setSelectedImage} />
       </section>
 
       <section id="contact" className="section-frame">
@@ -1393,6 +1468,7 @@ export default function Page() {
       </footer>
 
       {selectedWork ? <DetailModal work={selectedWork} onClose={() => setSelectedWork(null)} t={t} /> : null}
+      {selectedImage ? <ImageLightbox image={selectedImage} onClose={() => setSelectedImage(null)} /> : null}
     </main>
   );
 }
