@@ -11,3 +11,4 @@ Next.js portfolio site for T. Lemahieu.
 - Node.js Version: 20.x
 
 Images are loaded from Cloudinary, so no local public/images folder is required.
+Updated deployment trigger.
